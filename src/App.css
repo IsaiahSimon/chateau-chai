@@ -9,7 +9,7 @@
 }
 
 .app__bg {
-  background: url('./assets/bg.png');
+  background: url("./assets/bg.png");
   background-position: center;
   background-size: cover;
   background-repeat: repeat;
@@ -73,7 +73,7 @@
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: capitalize;
-  font-feature-settings: 'tnum' on, 'lnum' on;
+  font-feature-settings: "tnum" on, "lnum" on;
   line-height: 29.9px;
   font-size: 23px;
 }
@@ -101,8 +101,8 @@
   width: 45px;
 }
 
+/* from 2000px or more, apply these styles */
 @media screen and (min-width: 2000px) {
-
   .custom__button,
   .p__cormorant {
     font-size: 37px;
@@ -124,6 +124,7 @@
   }
 }
 
+/* from 0 to 1150px, apply these styles */
 @media screen and (max-width: 1150px) {
   .app__wrapper {
     flex-direction: column;
@@ -142,12 +143,14 @@
   }
 }
 
+/* from 0 to 850px, apply these styles */
 @media screen and (max-width: 850px) {
   .section__padding {
     padding: 4rem;
   }
 }
 
+/* from 0 to 650px, apply these styles */
 @media screen and (max-width: 650px) {
   .section__padding {
     padding: 4rem 2rem;
@@ -162,6 +165,7 @@
   }
 }
 
+/* from 0 to 450px, apply these styles */
 @media screen and (max-width: 450px) {
   .p__opensans {
     font-size: 12px;
