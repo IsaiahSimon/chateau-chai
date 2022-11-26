@@ -37,6 +37,7 @@
 .app__footer-links_logo img:first-child {
   width: 210px;
   margin-bottom: 0.75rem;
+
   /* Get logo to match color */
   filter: invert(14%) sepia(29%) saturate(467%) hue-rotate(2deg) brightness(91%)
     contrast(90%);

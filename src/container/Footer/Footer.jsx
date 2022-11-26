@@ -5,6 +5,8 @@ import { FooterOverlay, Newsletter } from "../../components";
 import { images } from "../../constants";
 import "./Footer.css";
 
+const today = new Date();
+
 const Footer = () => (
   <div className="app__footer section__padding">
     <FooterOverlay />
@@ -33,15 +35,16 @@ const Footer = () => (
       <div className="app__footer-links_work">
         <h1 className="app__footer-headtext">Working Hours</h1>
         <p className="p__opensans">Monday - Friday:</p>
-        <p className="p__opensans">10:00 am - 11:00 pm</p>
+        <p className="p__opensans">11:00 am - 11:00 pm</p>
         <p className="p__opensans">Saturday - Sunday:</p>
-        <p className="p__opensans">10:00 am - 12:00 am</p>
+        <p className="p__opensans">11:00 am - 01:00 am</p>
       </div>
     </div>
 
     <div className="footer__copyright">
       <p className="p__opensans">
-        2022 <span>Chateau Chai</span>. All Rights reserved. Crafted by
+        Copyright © {today.getFullYear()} <span>Chateau Chai</span>. All Rights
+        reserved. Crafted by
         <a href="https://isimon.dev/" target="_blank" rel="noreferrer">
           {" "}
           Isaiah Simon | iSimonDev

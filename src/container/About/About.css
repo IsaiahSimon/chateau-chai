@@ -58,6 +58,11 @@
   color: var(--color-grey);
 }
 
+.app__about-content_about .spoon__img {
+  /* flip spoon horizontally */
+  transform: scaleX(-1);
+}
+
 /** Media Queries */
 /* from 0 to 2000px, apply these styles */
 @media screen and (max-width: 2000px) {

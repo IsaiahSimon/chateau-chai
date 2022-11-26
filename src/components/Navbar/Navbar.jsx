@@ -12,7 +12,9 @@ const Navbar = () => {
     <nav className="app__navbar">
       {/* Logo */}
       <div className="app__navbar-logo">
-        <img src={images.chateauChai} alt="logo" />
+        <a href="#home">
+          <img src={images.chateauChai} alt="logo" />
+        </a>
       </div>
 
       {/* Main navigation links */}

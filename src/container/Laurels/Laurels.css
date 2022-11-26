@@ -32,7 +32,7 @@
 /* Apply above 1900px */
 @media screen and (min-width: 1900px) {
   .app__laurels_awards-card {
-    min-width: 390px;
+    min-width: 33%;
   }
 }
 
