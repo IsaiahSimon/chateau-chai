@@ -1,0 +1,18 @@
+.headtext__cormorant {
+  margin-bottom: 3rem;
+}
+
+.custom__button {
+  margin-top: 2rem;
+}
+
+.app__wrapper-content .p__cormorant {
+  color: #dcca87;
+  margin: 2rem 0;
+}
+
+/* remove default text-transform from p__opensans */
+.app__wrapper-content .p__opensans:nth-child(3),
+.app__wrapper-content .p__opensans:nth-child(4) {
+  text-transform: none;
+}
