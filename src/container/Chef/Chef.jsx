@@ -17,17 +17,18 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote" />
           <p className="p__opensans">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            With our team taking an unrestricted approach when it comes to all
+            things food and drink,
           </p>
         </div>
         <p className="p__opensans">
-          Iste fugiat perspiciatis dolore excepturi aperiam veniam, esse quam
-          dolor blanditiis nisi qui beatae iure ullam quos.
+          expect to be wowed with dishes and drinks that are vibrant and bold,
+          yet familiar and comfortable.
         </p>
       </div>
 
       <div className="app__chef-sign">
-        <p>Kevin Luo</p>
+        <p>Marcus Ray</p>
         <p className="p__opensans">Chef & Founder</p>
         <img src={images.sign} alt="sign" />
       </div>

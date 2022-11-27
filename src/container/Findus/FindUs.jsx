@@ -10,7 +10,7 @@ const FindUs = () => (
       <SubHeading title="Contact" />
       <h1 className="headtext__cormorant">Find Us</h1>
       <div className="app__wrapper-content">
-        <p className="p__opensans">123 Mulberry Ln, West Hanover, CT 12031</p>
+        <p className="p__opensans">59 Culinary Dr, Rehoboth Beach, DE 19971</p>
         <p className="p__cormorant">Opening Hours</p>
         <p className="p__opensans">Mon - Fri: 11:00 am - 11:00 pm</p>
         <p className="p__opensans">Sat - Sun: 11:00 am - 01:00 am</p>

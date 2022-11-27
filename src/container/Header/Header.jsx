@@ -11,8 +11,9 @@ const Header = () => (
       <SubHeading title="Chase the new flavor" />
       <h1 className="app__header-h1">The Key to Fine Dining</h1>
       <p className="app__header-p p__opensans">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati rem
-        quaerat at sit amet. Laboriosam aliquam inventore corrupti alias nisi?
+        Located in the heart of Delaware’s famed Rehoboth Beach, Chateau Chai is
+        a fresh take on neighborhood fine dining, complete with an indoor bar,
+        beer and wine, and an expansive outdoor garden patio.
       </p>
       <button type="button" className="custom__button">
         Explore Menu

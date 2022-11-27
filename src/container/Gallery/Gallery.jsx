@@ -36,8 +36,11 @@ const Gallery = () => {
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
         <p className="p__opensans">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, ad
-          delectus laborum ex maiores maxime.
+          Chateau Chai is built on a dream of presenting classic flavours in a
+          fresh and exciting way. Our beautiful, contemporary interior and
+          diverse menus will set your senses alight. You may think you know fine
+          dining but we want to show you that the surface is yet to be
+          scratched, and there is so much more to offer.
         </p>
         <button className="custom__button" type="button">
           View More

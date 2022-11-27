@@ -1,3 +1,7 @@
 .p__cormorant:first-child {
   color: #dcca87;
 }
+
+.app__laurels_awards-card_content p:last-child {
+  text-transform: none;
+}

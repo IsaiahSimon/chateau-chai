@@ -3,8 +3,6 @@
   justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
-
-  margin-top: 3rem;
 }
 
 .app__laurels_awards-card {
@@ -29,6 +27,7 @@
   margin-left: 1rem;
 }
 
+/* Media Queries */
 /* Apply above 1900px */
 @media screen and (min-width: 1900px) {
   .app__laurels_awards-card {
