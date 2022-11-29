@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://isimon.dev/">
-    <img src="https://github.com/IsaiahSimon/IsaiahSimon/blob/main/images/banner_full_neon.gif" alt="Logo" width="80" height="80">
+    <img src="https://github.com/IsaiahSimon/IsaiahSimon/blob/main/images/banner_full_neon.gif" alt="Logo">
   </a>
 
 <h3 align="center">Chateau Chai</h3>
@@ -74,7 +74,9 @@
 
 ## About The Project
 
-[![Project Name Screen Shot][project-screenshot]](https://chateauchai.netlify.app/)
+<a href="https://chateauchai.netlify.app/">
+    <img src="https://github.com/IsaiahSimon/chateau-chai/blob/main/public/images/gif-chateauChai.gif" alt="project img">
+</a>
 
 Chateau Chai is a modern UI/UX responsive website made for a fine dining restaurant. It has a full navbar with a mobile version on smaller devices. Sections include: an Intro, an About, a drink menu, a note from the chef, an interactive background video, Awards, a scrollable Photo Gallery, Contact, Newsletter sign up, and a full Footer. Data in all sections can also be updated dynamically (currently it is provided via a data.js file, but can be replaced by an api.)
 
@@ -226,4 +228,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/IsaiahSimon/chateau-chai/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/isaiahsimon101
-[product-screenshot]: https://github.com/IsaiahSimon/chateau-chai/blob/main/public/images/gif-chateauChai.gif
