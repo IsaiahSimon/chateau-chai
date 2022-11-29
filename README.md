@@ -10,8 +10,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/IsaiahSimon">
-    <img src="https://github.com/IsaiahSimon/IsaiahSimon/blob/main/images/logo_500x500_dark.png" alt="Logo" width="80" height="80">
+  <a href="https://isimon.dev/">
+    <img src="https://github.com/IsaiahSimon/IsaiahSimon/blob/main/images/banner_full_neon.gif" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Chateau Chai</h3>
@@ -226,4 +226,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/IsaiahSimon/chateau-chai/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/isaiahsimon101
-[product-screenshot]: ./public/images/gif-chateauChai.gif
+[product-screenshot]: https://github.com/IsaiahSimon/chateau-chai/blob/main/public/images/gif-chateauChai.gif
