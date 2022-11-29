@@ -27,6 +27,27 @@
   </p>
 </div>
 
+<hr>
+
+<!-- BUILT WITH -->
+
+## Built With:
+
+<table>
+  <tr>
+    <td><a href="https://www.javascript.com/">JavaScript</a></td>
+    <td><a href="https://reactjs.org/">ReactJS</a></td>
+    <td><a href="">ViteJS</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></td>
+    <td><a href="https://www.netlify.com/">Netlify</a></td>
+  </tr>
+</table>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<hr>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -50,20 +71,7 @@
   </ol>
 </details>
 
-### Built With
-
-<table>
-  <tr>
-    <td><a href="https://www.javascript.com/">JavaScript</a></td>
-    <td><a href="https://reactjs.org/">ReactJS</a></td>
-    <td><a href="">ViteJS</a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></td>
-    <td><a href="https://www.netlify.com/">Netlify</a></td>
-  </tr>
-</table>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<hr>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -153,9 +161,11 @@ See the [open issues](https://github.com/IsaiahSimon/chateau-chai/issues) for a 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<hr>
+
 <!-- DETAILS -->
 
-## Details
+## Details:
 
 <!-- CONTRIBUTING -->
 
