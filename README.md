@@ -33,11 +33,14 @@
 
 ## Built With:
 
+<!-- max: 3 per row for mobile! -->
 <table>
   <tr>
     <td><a href="https://www.javascript.com/">JavaScript</a></td>
     <td><a href="https://reactjs.org/">ReactJS</a></td>
     <td><a href="">ViteJS</a></td>
+  </tr>
+  <tr>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></td>
     <td><a href="https://www.netlify.com/">Netlify</a></td>
