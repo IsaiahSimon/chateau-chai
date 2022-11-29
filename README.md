@@ -7,22 +7,19 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT INTRO -->
 <br />
 <div align="center">
-  <a href="https://isimon.dev/">
-    <img src="https://github.com/IsaiahSimon/IsaiahSimon/blob/main/images/banner_full_neon.gif" alt="Logo">
-  </a>
-
-<h3 align="center">Chateau Chai</h3>
-
+  <h1 align="center">Chateau Chai</h1>
   <p align="center">
     A modern UI/UX responsive website made for a fine dining restaurant.
+  </p>
+  <a href="https://chateauchai.netlify.app/">
+    <img src="https://github.com/IsaiahSimon/chateau-chai/blob/main/public/images/gif-chateauChai.gif" alt="project img">
+  </a>
+  <p align="center">
     <br />
-    <a href="https://github.com/IsaiahSimon/chateau-chai"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://chateauchai.netlify.app/">View Demo</a>
+    <a href="https://chateauchai.netlify.app/"><strong>View Demo</strong></a>
     ·
     <a href="https://github.com/IsaiahSimon/chateau-chai/issues">Report Bug</a>
     ·
@@ -60,8 +57,6 @@
     <td><a href="https://www.javascript.com/">JavaScript</a></td>
     <td><a href="https://reactjs.org/">ReactJS</a></td>
     <td><a href="">ViteJS</a></td>
-  </tr>
-  <tr>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></td>
     <td><a href="https://www.netlify.com/">Netlify</a></td>
@@ -74,13 +69,9 @@
 
 ## About The Project
 
-<a href="https://chateauchai.netlify.app/">
-    <img src="https://github.com/IsaiahSimon/chateau-chai/blob/main/public/images/gif-chateauChai.gif" alt="project img">
-</a>
+<strong>Chateau Chai</strong> is a modern UI/UX responsive website made for a fine dining restaurant. It has a full navbar with a mobile version on smaller devices. Sections include: an Intro, an About, a drink menu, a note from the chef, an interactive background video, Awards, a scrollable Photo Gallery, Contact, Newsletter sign up, and a full Footer. Data in all sections can also be updated dynamically (currently it is provided via a data.js file, but can be replaced by an api.)
 
-Chateau Chai is a modern UI/UX responsive website made for a fine dining restaurant. It has a full navbar with a mobile version on smaller devices. Sections include: an Intro, an About, a drink menu, a note from the chef, an interactive background video, Awards, a scrollable Photo Gallery, Contact, Newsletter sign up, and a full Footer. Data in all sections can also be updated dynamically (currently it is provided via a data.js file, but can be replaced by an api.)
-
-- I decided to use ViteJS for this project's structure since it is "a rapid development tool for modern web projects." The features I enjoyed most are the built-in support for React projects, lightning fast Hot Module Replacement (HMR), how it handles environment variables.
+- ViteJS was chosen for this project's structure since it is "a rapid development tool for modern web projects." The features I enjoyed most are the built-in support for React projects, lightning fast Hot Module Replacement (HMR), how it handles environment variables.
 - React was chosen for the frontend because of it's flexibility when it comes to building user interfaces. Being able to reuse Components is one of its biggest advantages, in addition to using JSX elements. React also has a TON of useful UI component libraries that made it easier to handle things like rendering icons.
 - Styling was done with CSS following the BEM model, and media queries were used to handle responsiveness on the most common device sizes.
 - Finally I chose Netlify for automated continous deployment since it is a powerful serverless platform with an intuitive git-based workflow.
@@ -187,11 +178,9 @@ Don't forget to give the project a star! Thanks again!
 
 ### Contact
 
-- Website: [iSimonDev](https://isimon.dev)
-- Twitter: [@iSimonDev](https://twitter.com/iSimonDev)
-- Email: isimon.dev@gmail.com
-
-Project Link: [https://github.com/IsaiahSimon/chateau-chai](https://github.com/IsaiahSimon/chateau-chai)
+<a href="https://isimon.dev/">
+    <img src="https://github.com/IsaiahSimon/IsaiahSimon/blob/main/images/banner_full_neon.gif" alt="Logo">
+</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
