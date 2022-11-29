@@ -11,9 +11,9 @@
 <br />
 <div align="center">
   <h1 align="center">Chateau Chai</h1>
-  <p align="center">
+  <h3 align="center">
     A modern UI/UX responsive website made for a fine dining restaurant.
-  </p>
+  </h3>
   <a href="https://chateauchai.netlify.app/">
     <img src="https://github.com/IsaiahSimon/chateau-chai/blob/main/public/images/gif-chateauChai.gif" alt="project img">
   </a>
@@ -88,7 +88,7 @@
 
 ## Usage
 
-Set up the project locally or use the [demo](https://chateauchai.netlify.app/).
+Set up the project <a href="#getting-started">locally</a> or use the [demo](https://chateauchai.netlify.app/).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -118,12 +118,9 @@ Set up the project locally or use the [demo](https://chateauchai.netlify.app/).
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps:
 
 ### Installation
-
-This is an example of how to list things you need to use the software and how to install them.
 
 ```sh
 # Clone the repo
