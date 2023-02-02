@@ -147,15 +147,24 @@ To get a local copy up and running follow these simple example steps:
 
 ## Future Updates
 
-- [x] Update the Laurels to line up 2x2 on larger devices
-- Improve user controls for background video section:
+- UI:
+  - [x] Update the Laurels to line up 2x2 on larger devices
+  - [ ] Improve user controls for background video section:
   - [ ] auto pause video when not in view
-  - [ ] remove overlay or adjust trans when playing on Desktop/Laptop devices
-- Mobile updates:
+  - [ ] remove overlay or adjust transition when playing on Desktop/Laptop devices
+- Mobile UI:
   - [ ] the full screen overlay navbar does not go away after a link is clicked.
   - [ ] Header title "The Key to Fine ..." text can be a bit smaller.
   - [ ] Cocktails image looks a little skewed vertically (possibly the knife too)
-  - [ ] Footer credits could use a `<br>` or wrap, and align-center
+  - [ ] Footer credits could use a `<br>` or wrap, and align-center
+- Backend: (add one!)
+  - [ ] add local user Login & Signup with authentication (Passport.js)
+  - [ ] add Google login
+  - [ ] add an interactive menu
+  - [ ] add a table booking system
+  - [ ] create pages for "Know More" links
+  - [ ] add MailChimp API newsletter integration
+  - [ ] add dynamic "inspirational quote of the day" using API
 
 See the [open issues](https://github.com/IsaiahSimon/chateau-chai/issues) for a full list of proposed features (and known issues).
 
